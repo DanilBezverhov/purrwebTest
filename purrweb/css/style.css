@@ -725,4 +725,9 @@ body{
 .whyBudssgrid{
   margin:2%;
 }
+    .howbudsswork{
+    color: #2FDBBC;
+    font-size: 90px;
+    white-space: nowrap;
+  }
 }
